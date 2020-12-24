@@ -1,0 +1,1 @@
+--insert into product values (12, 'mi', 6.7, 'white', 'S', 'abc', 'woman');
